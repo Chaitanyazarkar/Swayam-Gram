@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #92C7CF;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav {
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+    background-color: #E5E1DA;
+    height: 50px;
+    width: 100px;
+
+}
+nav a:hover {
+    text-decoration: underline;
+    
+}
+section {
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.Banner{
+    width: 500px;
+}
